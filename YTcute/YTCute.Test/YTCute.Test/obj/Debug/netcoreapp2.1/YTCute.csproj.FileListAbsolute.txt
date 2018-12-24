@@ -1,0 +1,10 @@
+D:\www\YTCute\YTcute\YTCute\bin\Debug\netcoreapp2.1\YTCute.deps.json
+D:\www\YTCute\YTcute\YTCute\bin\Debug\netcoreapp2.1\YTCute.runtimeconfig.json
+D:\www\YTCute\YTcute\YTCute\bin\Debug\netcoreapp2.1\YTCute.runtimeconfig.dev.json
+D:\www\YTCute\YTcute\YTCute\bin\Debug\netcoreapp2.1\YTCute.dll
+D:\www\YTCute\YTcute\YTCute\bin\Debug\netcoreapp2.1\YTCute.pdb
+D:\www\YTCute\YTcute\YTCute\obj\Debug\netcoreapp2.1\YTCute.csproj.CoreCompileInputs.cache
+D:\www\YTCute\YTcute\YTCute\obj\Debug\netcoreapp2.1\YTCute.AssemblyInfoInputs.cache
+D:\www\YTCute\YTcute\YTCute\obj\Debug\netcoreapp2.1\YTCute.AssemblyInfo.cs
+D:\www\YTCute\YTcute\YTCute\obj\Debug\netcoreapp2.1\YTCute.dll
+D:\www\YTCute\YTcute\YTCute\obj\Debug\netcoreapp2.1\YTCute.pdb

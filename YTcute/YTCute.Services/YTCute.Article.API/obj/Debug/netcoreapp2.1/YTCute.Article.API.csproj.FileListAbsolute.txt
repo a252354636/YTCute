@@ -1,0 +1,13 @@
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\bin\Debug\netcoreapp2.1\YTCute.Article.API.deps.json
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\bin\Debug\netcoreapp2.1\YTCute.Article.API.runtimeconfig.json
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\bin\Debug\netcoreapp2.1\YTCute.Article.API.runtimeconfig.dev.json
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\bin\Debug\netcoreapp2.1\YTCute.Article.API.dll
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\bin\Debug\netcoreapp2.1\YTCute.Article.API.pdb
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.csproj.CoreCompileInputs.cache
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.RazorAssemblyInfo.cache
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.RazorAssemblyInfo.cs
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.AssemblyInfoInputs.cache
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.AssemblyInfo.cs
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.RazorTargetAssemblyInfo.cache
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.dll
+D:\www\YTCute\YTcute\YTCute.Services\YTCute.Article.API\obj\Debug\netcoreapp2.1\YTCute.Article.API.pdb
