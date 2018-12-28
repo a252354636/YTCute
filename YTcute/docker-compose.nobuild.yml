@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+    ytcute.news.api:
+    image: ytcutenewsapi
+
+ 

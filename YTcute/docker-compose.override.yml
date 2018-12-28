@@ -1,0 +1,36 @@
+version: '3.4'
+
+services:
+  ytcute.news.api:
+      environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://0.0.0.0:80
+      - identityUrl=http://identity.api              #Local: You need to open your local dev-machine firewall at range 5100-5110.
+      - IdentityUrlExternal=http://${ESHOP_EXTERNAL_DNS_NAME_OR_IP}:5105
+      - AzureServiceBusEnabled=False
+      - ApplicationInsights__InstrumentationKey=${INSTRUMENTATION_KEY}
+      - UseLoadTest=${USE_LOADTEST:-False}
+      ports:
+      - "5101:80"   # Important: In a production environment your should remove the external port (5103) kept here for microservice debugging purposes. 
+                    # The API Gateway redirects and access through the internal port (80). 
+
+  ytcute.article.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5102:80"
+
+
+  ytcute.identity.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5100:80"
+
+
+  ytcute.ocelot.apigw:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5000:80"
+

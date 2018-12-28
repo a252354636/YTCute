@@ -1,0 +1,29 @@
+version: '3.4'
+
+services:
+  ytcute.news.api:
+    image: ytcutenewsapi
+    build:
+      context: .
+      dockerfile: YTCute.Services/YTCute.News.API/Dockerfile
+
+  ytcute.article.api:
+    image: ytcutearticleapi
+    build:
+      context: .
+      dockerfile: YTCute.Services/YTCute.Article.API/Dockerfile
+
+
+  ytcute.identity.api:
+    image: ${DOCKER_REGISTRY}ytcuteidentityapi
+    build:
+      context: .
+      dockerfile: YTCute.Services/YTCute.Identity.API/Dockerfile
+
+
+  ytcute.ocelot.apigw:
+    image: ${DOCKER_REGISTRY}ytcuteocelotapigw
+    build:
+      context: .
+      dockerfile: YTCute.ApiGateways/YTCute.Ocelot.ApiGw/Dockerfile
+

@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YTCute.Test", "YTCute.Test\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-BuildingBlocks", "04-BuildingBlocks", "{64EA396D-96E3-4D2B-9C09-3310FF5CFB8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTCute.Resilience.Http", "YTCute.BuildingBlocks\YTCute.Resilience.Http\YTCute.Resilience.Http.csproj", "{3666D87E-0B33-417B-AD30-9FDF6A94C6D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YTCute.Resilience.Http", "YTCute.BuildingBlocks\YTCute.Resilience.Http\YTCute.Resilience.Http.csproj", "{3666D87E-0B33-417B-AD30-9FDF6A94C6D3}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CF54A5B9-7B9A-4340-9821-922D60419E7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{3666D87E-0B33-417B-AD30-9FDF6A94C6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3666D87E-0B33-417B-AD30-9FDF6A94C6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3666D87E-0B33-417B-AD30-9FDF6A94C6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF54A5B9-7B9A-4340-9821-922D60419E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF54A5B9-7B9A-4340-9821-922D60419E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF54A5B9-7B9A-4340-9821-922D60419E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF54A5B9-7B9A-4340-9821-922D60419E7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

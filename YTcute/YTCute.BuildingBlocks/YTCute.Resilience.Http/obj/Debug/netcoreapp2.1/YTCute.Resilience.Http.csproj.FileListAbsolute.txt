@@ -1,8 +1,8 @@
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.deps.json
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.dll
+D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.pdb
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\obj\Debug\netcoreapp2.1\YTCute.Resilience.Http.csproj.CoreCompileInputs.cache
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\obj\Debug\netcoreapp2.1\YTCute.Resilience.Http.AssemblyInfoInputs.cache
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\obj\Debug\netcoreapp2.1\YTCute.Resilience.Http.AssemblyInfo.cs
-D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.pdb
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\obj\Debug\netcoreapp2.1\YTCute.Resilience.Http.dll
 D:\www\YTCute\YTcute\YTCute.BuildingBlocks\YTCute.Resilience.Http\obj\Debug\netcoreapp2.1\YTCute.Resilience.Http.pdb

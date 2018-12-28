@@ -6,11 +6,11 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 60001
+          "Port": 5101
         },
         {
           "Host": "localhost",
-          "Port": 60002
+          "Port": 5102
         }
       ],
       "UpstreamPathTemplate": "/api/Values",
@@ -25,7 +25,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5000
+          "Port": 5100
         }
       ],
       "UpstreamPathTemplate": "/{url}",
@@ -37,7 +37,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5000
+          "Port": 5100
         }
       ],
       "UpstreamPathTemplate": "/",

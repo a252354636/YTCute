@@ -1,4 +1,12 @@
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.deps.json
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.runtimeconfig.json
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.runtimeconfig.dev.json
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.dll
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.pdb
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.Views.dll
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.Views.pdb
 D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.dll
+D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.pdb
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.csprojAssemblyReference.cache
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.csproj.CoreCompileInputs.cache
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.RazorAssemblyInfo.cache
@@ -20,14 +28,6 @@ D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImpo
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.RazorTargetAssemblyInfo.cache
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.RazorTargetAssemblyInfo.cs
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.deps.json
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.runtimeconfig.json
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.runtimeconfig.dev.json
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.dll
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.pdb
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.Views.dll
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Web.UI.Views.pdb
-D:\www\YTCute\YTcute\YTCute.Web.UI\bin\Debug\netcoreapp2.1\YTCute.Resilience.Http.pdb
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.Views.pdb
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.csproj.CopyComplete
 D:\www\YTCute\YTcute\YTCute.Web.UI\obj\Debug\netcoreapp2.1\YTCute.Web.UI.dll

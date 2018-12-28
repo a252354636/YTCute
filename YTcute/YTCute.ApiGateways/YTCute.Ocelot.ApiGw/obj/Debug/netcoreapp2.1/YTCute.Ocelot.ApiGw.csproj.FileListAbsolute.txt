@@ -17,7 +17,6 @@ D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\bin\Debug\netcoreapp
 D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\bin\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.runtimeconfig.dev.json
 D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\bin\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.dll
 D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\bin\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.pdb
-D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\obj\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.csprojAssemblyReference.cache
 D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\obj\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.csproj.CoreCompileInputs.cache
 D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\obj\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.RazorAssemblyInfo.cache
 D:\www\YTCute\YTcute\YTCute.ApiGateways\YTCute.Ocelot.ApiGw\obj\Debug\netcoreapp2.1\YTCute.Ocelot.ApiGw.RazorAssemblyInfo.cs
